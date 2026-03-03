@@ -22,7 +22,7 @@ public class Tugas1 {
 
         System.out.println(
                 "Hasilnya Cat liter : " + Math.ceil(kebutuhanCat));
-
+        input.close();
     }
 
 }

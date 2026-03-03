@@ -27,6 +27,8 @@ public class Tugas2 {
         System.out.printf(
                 "%.2f", (suhu * 4 / 5));
 
+        input.close();
+
     }
 
 }
